@@ -1,0 +1,7 @@
+Sigma Shadows For Winzip
+------------------------
+
+04/18/2000 - Created by Thomas Hellstrom <thohell@home.se>
+
+This skin is based on Sigma Shadows by Shawn Murdock <smurdock@nacs.net>
+which is a great looking skin for WindowBlinds <http://www.windowblinds.net>
