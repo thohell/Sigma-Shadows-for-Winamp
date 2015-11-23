@@ -1,4 +1,4 @@
-Sigma Shadows For Winzip
+Sigma Shadows For Winamp
 ------------------------
 
 04/18/2000 - Created by Thomas Hellstrom <thohell@home.se>
